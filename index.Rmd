@@ -18,12 +18,12 @@ Through aggregating the data by year, we are able to gain insights on food waste
 -There was a sharp increase in food waste in 2020
   -This was most likely because of the strike of pandemic that happened around that time. Covid caused the mass shut down of restaurants leading to a mass turnover of food waste
 
-## Chart 1: Food waste percentage loss from 2000-2022
+## Chart 2: Food waste percentage loss from 2000-2022
 ```{r chart1, echo=FALSE}
 source("20-22 Food Waste.R")
 plot(g1 + labs(title="Year vs Food Loss", y="Percent Loss (%)", x="Year", caption="Demo"))
 ```
-This chart shows the food waste tracked over time from 2000 to 2022 
+This chart shows the food waste tracked over time from 2000 to 2022 allowing us to analyze trends across time.
 
 ### Purpose
 
