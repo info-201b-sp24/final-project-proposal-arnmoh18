@@ -12,10 +12,19 @@ Furthermore we also looked at how food waste varied by country since location ca
 Table shows percent loss of food in 2018 across all countries and commodities 
 ### Purpose
 Through aggregating the data by year, we are able to gain insights on food waste trends over a given time period
+
 ### Insights
 -From 2008 to 2013 there was an increase in food waste hovering around 5.5-6 percent
 -There was a sharp increase in food waste in 2020
   -This was most likely because of the strike of pandemic that happened around that time. Covid caused the mass shut down of restaurants leading to a mass turnover of food waste
+
+## Chart 1: Food waste percentage loss from 2000-2022
+```{r chart1, echo=FALSE}
+source("20-22 Food Waste.R")
+plot(g1 + labs(title="Year vs Food Loss", y="Percent Loss (%)", x="Year", caption="Demo"))
+```
+This chart shows the food waste tracked over time from 2000 to 2022 
+
 ### Purpose
 
 ### Insights
