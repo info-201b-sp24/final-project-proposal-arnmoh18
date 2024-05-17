@@ -8,7 +8,7 @@
 When looking at the data we first decided to take a look at what type of food had the highest and lowest rate of food waste since that can effect the amount of food waste. We noticed that the foods with the highest amount of food waste were broccoli, cauliflowers, and strawberries at 65 percent. Furthermore we also noticed that the food with the  lowest amount of food waste turned out to be goats at 0.12 percent.
 
 Furthermore we also looked at how food waste varied by country since location can have a high influence on food waste. The country with the smallest amount of food waste was Burkina Faso, and the country with the largest amount of food waste was Australia. 
-## Table
+## Table Food waste in 2019
 Table shows percent loss of food in 2018 across all countries and commodities 
 ### Purpose
 Through aggregating the data by year, we are able to gain insights on food waste trends over a given time period
